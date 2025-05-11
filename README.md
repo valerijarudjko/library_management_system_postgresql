@@ -15,9 +15,6 @@ This project demonstrates the implementation of a Library Management System usin
 3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
 4. **Advanced SQL Queries**: Develop complex queries to analyse and retrieve specific data.
 
-## Database Schema: Author - Valerija
-
-![ERD Schema](images/ERD%20Schema%20library_p2.png)
 
 ## Project Structure
 
