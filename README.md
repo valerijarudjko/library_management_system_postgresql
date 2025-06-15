@@ -341,6 +341,5 @@ This project demonstrates the application of SQL skills in creating and managing
 
 SQL Code file created by Valerija using PostgreSQL database.
 
-Acknowledgments
-
-Data Source & Inspiration: @zeroanalyst
+#### Acknowledgments
+- Data Source & Inspiration: @zeroanalyst
