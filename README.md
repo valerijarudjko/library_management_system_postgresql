@@ -1,10 +1,6 @@
-# Library Management System using SQL Project --P2
+# Library Management System using SQL Project 
 
 ## Project Overview
-
-**Project Title**: Library Management System  
-**Level**: Intermediate  / Advanced
-**Database**: `library_db`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
@@ -345,4 +341,6 @@ This project demonstrates the application of SQL skills in creating and managing
 
 SQL Code file created by Valerija using PostgreSQL database.
 
-### Credits & Author of the project - Zero Analyst
+Acknowledgments
+
+Data Source & Inspiration: @zeroanalyst
